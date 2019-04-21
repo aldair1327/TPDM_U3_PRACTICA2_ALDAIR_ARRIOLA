@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "501865264554",
+    "firebase_url": "https://tpdmu3proyecto1-839d8.firebaseio.com",
+    "project_id": "tpdmu3proyecto1-839d8",
+    "storage_bucket": "tpdmu3proyecto1-839d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501865264554:android:70b525dac1b3f624",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.aldairarriola.tpdm_u3_ejercicio1_aldair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501865264554-k9nmf9n880m1lt90talurj581n6tfq4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACOhz9NqWU_BQLB8akd2zY-vIQDD3UU3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501865264554-k9nmf9n880m1lt90talurj581n6tfq4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501865264554:android:6d394e9364c382ed",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.aldairarriola.tpdm_u3_ejercicio2_aldair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501865264554-k9nmf9n880m1lt90talurj581n6tfq4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACOhz9NqWU_BQLB8akd2zY-vIQDD3UU3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501865264554-k9nmf9n880m1lt90talurj581n6tfq4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501865264554:android:88dc0d7016afcaf1",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.aldairarriola.tpdm_u3_practica2_aldair_arriola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501865264554-k9nmf9n880m1lt90talurj581n6tfq4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACOhz9NqWU_BQLB8akd2zY-vIQDD3UU3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501865264554-k9nmf9n880m1lt90talurj581n6tfq4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
